@@ -1,0 +1,20 @@
+{
+  "name": "botticket-main",
+  "version": "1.0.0",
+  "description": "A bot ticket discord in mp",
+  "main": "index.js",
+  "dependencies": {
+    "dateformat": "^4.5.1",
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "script": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  "author": "",
+  "license": "ISC"
+}, 
+
+"scripts" : {
+  "start" : "node index.js"
+} 
+}
