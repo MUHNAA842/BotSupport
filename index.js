@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 const fs = require('fs');
-const TOKEN = "OTM1NjM3NTYyODA1MDU5NjI0.GdU8Xv.OAHI95hTBlK4Mk1A94ZJjJjIh2MzJ2Kxm2Ulls";
+const TOKEN = "MTA0NzEyMDI2ODQ1NzQxODc1Mg.GsOObD.FzYmTA2iJfPFQ7Kd09usDdE2jBrU6Pxj1eOvIA";
 
 const loadEvents = (dir) => {
     fs.readdirSync(dir).forEach(dirs => {
